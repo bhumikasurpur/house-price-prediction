@@ -19,4 +19,4 @@ Housing.csv — 545 records, 13 features (Kaggle housing price dataset).
 
 ## Files
 - `house_price_prediction.ipynb` — full notebook with code and outputs
-- `predictions.csv` — actual vs predicted prices on test set
+- `predictions.xls` — actual vs predicted prices on test set
